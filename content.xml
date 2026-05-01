@@ -1,0 +1,1916 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260501120050WGBGA9</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260501120050LX4WAN</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>La aventura compartida</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Saray Arrebola González</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de aprendizaje dirigida a alumnado de 6º de Primaria en la que se fomenta la escritura creativa y el trabajo cooperativo mediante la creación de una historia colectiva en un documento compartido, desarrollando la competencia lingüística, la colaboración y la competencia digital.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777624041932</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-momngh3t-hu2n8doie</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Portada</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Portada</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Portada</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Portada</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-momngh3t-hu2n8doie</odePageId>
+      <odeBlockId>block-1777322755477-00tuq69s8</odeBlockId>
+      <blockName>Tejiendo historias</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-momngh3t-hu2n8doie</odePageId>
+          <odeBlockId>block-1777322755477-00tuq69s8</odeBlockId>
+          <odeIdeviceId>idevice-1777322755473-40kmjsq5u</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/ChatGPT Image 27 abr 2026, 22_48_13.png" width="1366" height="911" alt="" /></p>
+<p></p>
+<p>Cada palabra que añadimos no solo construye una historia, sino también el vínculo que nos une como grupo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777322755473-40kmjsq5u","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/ChatGPT Image 27 abr 2026, 22_48_13.png\" width=\"1366\" height=\"911\" alt=\"\" /></p>\n<p></p>\n<p>Cada palabra que añadimos no solo construye una historia, sino también el vínculo que nos une como grupo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-momngh3z-c01kdot0a</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación del proyecto</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-momngh3z-c01kdot0a</odePageId>
+      <odeBlockId>block-1777323030777-45iwz3mc4</odeBlockId>
+      <blockName>Presentación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-momngh3z-c01kdot0a</odePageId>
+          <odeBlockId>block-1777323030777-45iwz3mc4</odeBlockId>
+          <odeIdeviceId>idevice-1777323030775-lfc4bfttj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este proyecto consiste en la creación de historias de manera colaborativa por parte del alumnado, que trabaja en pequeños grupos utilizando ordenadores y un documento compartido en línea. Cada grupo elabora una historia conjunta en la que todos los miembros participan aportando ideas y desarrollando el relato de forma progresiva dentro del mismo texto.</p>
+<p>La dinámica de trabajo se basa en la participación activa de todos los estudiantes, de manera que uno de ellos puede iniciar la historia y posteriormente los demás van continuándola, añadiendo nuevos elementos, personajes o acontecimientos. De este modo, el texto se va construyendo de forma colectiva, favoreciendo la creatividad y la coordinación entre los miembros del grupo.</p>
+<p>Entre los objetivos del proyecto se encuentra el fomento de la creatividad narrativa, el desarrollo de la expresión escrita y la mejora del trabajo en equipo. Además, se busca que el alumnado aprenda a utilizar herramientas digitales colaborativas y a desarrollar textos coherentes y cohesionados.</p>
+<p>Para llevar a cabo la actividad se utilizan ordenadores del aula y un documento compartido en línea, como por ejemplo Google Docs, que permite la edición simultánea por parte de todos los integrantes del grupo.</p>
+<p>A continuación, adjunto la presentación del proyecto:</p>
+<p><a href="https://www.canva.com/design/DAHEBIpK6Lg/bYYnUQ54JNt7JdKJMYa9Ww/edit?utm_content=DAHEBIpK6Lg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" title="Presentación del proyecto">https://www.canva.com/design/DAHEBIpK6Lg/bYYnUQ54JNt7JdKJMYa9Ww/edit?utm_content=DAHEBIpK6Lg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777323030775-lfc4bfttj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este proyecto consiste en la creación de historias de manera colaborativa por parte del alumnado, que trabaja en pequeños grupos utilizando ordenadores y un documento compartido en línea. Cada grupo elabora una historia conjunta en la que todos los miembros participan aportando ideas y desarrollando el relato de forma progresiva dentro del mismo texto.</p>\n<p>La dinámica de trabajo se basa en la participación activa de todos los estudiantes, de manera que uno de ellos puede iniciar la historia y posteriormente los demás van continuándola, añadiendo nuevos elementos, personajes o acontecimientos. De este modo, el texto se va construyendo de forma colectiva, favoreciendo la creatividad y la coordinación entre los miembros del grupo.</p>\n<p>Entre los objetivos del proyecto se encuentra el fomento de la creatividad narrativa, el desarrollo de la expresión escrita y la mejora del trabajo en equipo. Además, se busca que el alumnado aprenda a utilizar herramientas digitales colaborativas y a desarrollar textos coherentes y cohesionados.</p>\n<p>Para llevar a cabo la actividad se utilizan ordenadores del aula y un documento compartido en línea, como por ejemplo Google Docs, que permite la edición simultánea por parte de todos los integrantes del grupo.</p>\n<p>A continuación, adjunto la presentación del proyecto:</p>\n<p><a href=\"https://www.canva.com/design/DAHEBIpK6Lg/bYYnUQ54JNt7JdKJMYa9Ww/edit?utm_content=DAHEBIpK6Lg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton\" title=\"Presentación del proyecto\">https://www.canva.com/design/DAHEBIpK6Lg/bYYnUQ54JNt7JdKJMYa9Ww/edit?utm_content=DAHEBIpK6Lg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-momngh41-bp5ewjv35</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Protección de datos</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-momngh41-bp5ewjv35</odePageId>
+      <odeBlockId>block-1777471240666-3ddtz7tld</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-momngh41-bp5ewjv35</odePageId>
+          <odeBlockId>block-1777471240666-3ddtz7tld</odeBlockId>
+          <odeIdeviceId>idevice-1777471240662-jkj4p9dfg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este proyecto digital, es importante que tomes conciencia sobre la protección de tus datos y el uso responsable de la información en internet. Hoy en día, compartir contenido es muy fácil, pero también puede implicar riesgos si no lo haces de forma segura.</p>
+<p>Debes aprender a cuidar tus datos personales, como tus contraseñas o tu correo electrónico, y evitar compartir información privada en documentos o plataformas digitales. También es importante que revises quién puede ver o editar tu trabajo y que guardes copias de seguridad para no perder tu información.</p>
+<p>Además, cuando utilices imágenes, música u otros recursos, debes respetar las licencias. Puedes usar materiales con licencias como Creative Commons o de dominio público, siempre citando al autor cuando sea necesario.</p>
+<p>La infografía que acompaña esta actividad te ayudará a recordar estas normas básicas de seguridad digital y buen uso de la información. Tu responsabilidad en el entorno digital es clave para crear un espacio seguro y respetuoso para todos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777471240662-jkj4p9dfg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este proyecto digital, es importante que tomes conciencia sobre la protección de tus datos y el uso responsable de la información en internet. Hoy en día, compartir contenido es muy fácil, pero también puede implicar riesgos si no lo haces de forma segura.</p>\n<p>Debes aprender a cuidar tus datos personales, como tus contraseñas o tu correo electrónico, y evitar compartir información privada en documentos o plataformas digitales. También es importante que revises quién puede ver o editar tu trabajo y que guardes copias de seguridad para no perder tu información.</p>\n<p>Además, cuando utilices imágenes, música u otros recursos, debes respetar las licencias. Puedes usar materiales con licencias como Creative Commons o de dominio público, siempre citando al autor cuando sea necesario.</p>\n<p>La infografía que acompaña esta actividad te ayudará a recordar estas normas básicas de seguridad digital y buen uso de la información. Tu responsabilidad en el entorno digital es clave para crear un espacio seguro y respetuoso para todos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-momngh41-bp5ewjv35</odePageId>
+      <odeBlockId>block-1777471254638-8p0sna33f</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-momngh41-bp5ewjv35</odePageId>
+          <odeBlockId>block-1777471254638-8p0sna33f</odeBlockId>
+          <odeIdeviceId>idevice-1777471254637-8d4sz5rvj</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777471254637-8d4sz5rvj" title="" href="{{context_path}}/content/resources/Infografía proyecto creativo de comics estructurada divertida multicolor.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Infografía proyecto creativo de comics estructurada divertida multicolor.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777471254637-8d4sz5rvj","img_0":{"img":"{{context_path}}/content/resources/Infografía proyecto creativo de comics estructurada divertida multicolor.png","thumbnail":"{{context_path}}/content/resources/Infografía proyecto creativo de comics estructurada divertida multicolor.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-momngh42-a1cqj6jtm</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Curación del contenido</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación del contenido</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación del contenido</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-momngh42-a1cqj6jtm</odePageId>
+      <odeBlockId>block-1777570945301-9f5l264nb</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-momngh42-a1cqj6jtm</odePageId>
+          <odeBlockId>block-1777570945301-9f5l264nb</odeBlockId>
+          <odeIdeviceId>idevice-1777570945299-mmi8eojyz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En mi día a día como docente realizo procesos de curación de contenidos con el objetivo <br />de ofrecer a mi alumnado información útil, organizada y adaptada a sus necesidades reales <br />de aprendizaje. Para facilitar el desarrollo del proyecto, he seguido las fases propias de la curación de contenidos:</p>
+<p>- Identificación de las necesidades del alumnado.</p>
+<p>- Selección y filtrado de la información.</p>
+<p>- Organización de los contenidos.</p>
+<p>- Compartición de contenidos.</p>
+<p>- Evaluación de mejora.</p>
+<p>A continuación, adjunto dos ejemplos de curación de contenidos realizadas para este proyecto. Una de ellas va dirigida al alumnado y otra al profesorado:</p>
+<p>Para el alumnado: <a href="https://www.symbaloo.com/mix/herramientas-y-recursos-para-crear-historias-en-equipo" title="">https://www.symbaloo.com/mix/herramientas-y-recursos-para-crear-historias-en-equipo</a></p>
+<p>Para el profesorado: <a href="https://wakelet.com/wake/g6YpTg2YJdXKkDp_QcUFX" title="">https://wakelet.com/wake/g6YpTg2YJdXKkDp_QcUFX</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777570945299-mmi8eojyz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En mi día a día como docente realizo procesos de curación de contenidos con el objetivo <br />de ofrecer a mi alumnado información útil, organizada y adaptada a sus necesidades reales <br />de aprendizaje. Para facilitar el desarrollo del proyecto, he seguido las fases propias de la curación de contenidos:</p>\n<p>- Identificación de las necesidades del alumnado.</p>\n<p>- Selección y filtrado de la información.</p>\n<p>- Organización de los contenidos.</p>\n<p>- Compartición de contenidos.</p>\n<p>- Evaluación de mejora.</p>\n<p>A continuación, adjunto dos ejemplos de curación de contenidos realizadas para este proyecto. Una de ellas va dirigida al alumnado y otra al profesorado:</p>\n<p>Para el alumnado: <a href=\"https://www.symbaloo.com/mix/herramientas-y-recursos-para-crear-historias-en-equipo\" title=\"\">https://www.symbaloo.com/mix/herramientas-y-recursos-para-crear-historias-en-equipo</a></p>\n<p>Para el profesorado: <a href=\"https://wakelet.com/wake/g6YpTg2YJdXKkDp_QcUFX\" title=\"\">https://wakelet.com/wake/g6YpTg2YJdXKkDp_QcUFX</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777624940564-iid5v9105</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777624940564-iid5v9105</odePageId>
+      <odeBlockId>block-1777624947498-mdv1youoe</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777624940564-iid5v9105</odePageId>
+          <odeBlockId>block-1777624947498-mdv1youoe</odeBlockId>
+          <odeIdeviceId>idevice-1777624947497-ugsz1lvx4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-fx exe-accordion">
+<h2>¿Cómo se va a desarrollar el proyecto?</h2>
+<p><img src="{{context_path}}/content/resources/PRÁCTICA 7_page-0001.jpg" title="Práctica 7" width="1250" height="3125" alt="" /></p>
+<p>Imagen de uso gratuito. <a href="https://www.canva.com/">https://www.canva.com/</a> </p>
+</div>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777624947497-ugsz1lvx4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-fx exe-accordion\">\n<h2>¿Cómo se va a desarrollar el proyecto?</h2>\n<p><img src=\"{{context_path}}/content/resources/PRÁCTICA 7_page-0001.jpg\" title=\"Práctica 7\" width=\"1250\" height=\"3125\" alt=\"\" /></p>\n<p>Imagen de uso gratuito. <a href=\"https://www.canva.com/\">https://www.canva.com/</a> </p>\n</div>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-momngh43-80tivwln9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-momngh43-80tivwln9</odePageId>
+      <odeBlockId>block-1777471532517-b8sy01s8v</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-momngh43-80tivwln9</odePageId>
+          <odeBlockId>block-1777471532517-b8sy01s8v</odeBlockId>
+          <odeIdeviceId>idevice-1777471532515-zml0uvcbe</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este proyecto te convertirás en escritor o escritora digital usando Google Docs. Junto a tu equipo, crearás una historia original donde cada idea cuenta y cada compañero aporta algo único.</p>
+<p>Trabajaréis en el mismo documento al mismo tiempo, comentando, mejorando y dando forma a un relato colectivo. No solo desarrollarás tu creatividad y tu forma de expresarte, sino que también aprenderás a colaborar, respetar las ideas de los demás y construir algo juntos.</p>
+<p>Además, contarás con herramientas que te ayudarán a escribir mejor y a revisar tu trabajo de forma sencilla.</p>
+<p>Al final, compartiréis vuestra historia con la clase… ¡y quién sabe! Puede que hayáis creado algo realmente increíble.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777471532515-zml0uvcbe","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este proyecto te convertirás en escritor o escritora digital usando Google Docs. Junto a tu equipo, crearás una historia original donde cada idea cuenta y cada compañero aporta algo único.</p>\n<p>Trabajaréis en el mismo documento al mismo tiempo, comentando, mejorando y dando forma a un relato colectivo. No solo desarrollarás tu creatividad y tu forma de expresarte, sino que también aprenderás a colaborar, respetar las ideas de los demás y construir algo juntos.</p>\n<p>Además, contarás con herramientas que te ayudarán a escribir mejor y a revisar tu trabajo de forma sencilla.</p>\n<p>Al final, compartiréis vuestra historia con la clase… ¡y quién sabe! Puede que hayáis creado algo realmente increíble.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-momngh44-4onas3w1f</odePageId>
+  <odeParentPageId>page-momngh43-80tivwln9</odeParentPageId>
+  <pageName>Actividad 1: El chispazo inicial.</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 1: El chispazo inicial.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 1: ¡Lluvia de ideas! 💡</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Actividad 1: El chispazo inicial.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-momngh44-4onas3w1f</odePageId>
+      <odeBlockId>block-1777472046436-cjpb5ls4e</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-momngh44-4onas3w1f</odePageId>
+          <odeBlockId>block-1777472046436-cjpb5ls4e</odeBlockId>
+          <odeIdeviceId>idevice-1777472046435-lcpc4il9f</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>30 minutos</dd></div><div class="inline"><dt><span title="Todo el grupo">Todo el grupo</span></dt><dd>Todo el grupo</dd></div></dl><div class="exe-fx exe-tabs">
+<h2>Descripción</h2>
+<p><strong>¿Qué haremos? </strong>Antes de escribir, necesitamos inspiración. Entra en nuestro muro de Padlet y pega tres notas de colores: una con un personaje divertido, otra con un lugar asombroso y otra con un final que nadie se espere.</p>
+<p><strong>El reto:</strong> Lee las ideas de tus compañeros y pensad en grupo cómo unirlas para que vuestro cuento tenga un inicio emocionante, un nudo con problemas y un desenlace épico.</p>
+<h2 title="">Herramientas digitales</h2>
+<p><a href="https://wordart.com/" title="">https://wordart.com/</a></p>
+<p><a href="https://padlet.com/dashboard?filter=combined_recents&mobile_page=Collection" title="">https://padlet.com/dashboard?filter=combined_recents&mobile_page=Collection</a></p>
+</div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777472046435-lcpc4il9f","textInfoDurationInput":"30 minutos","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Todo el grupo","textInfoParticipantsTextInput":"Todo el grupo","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>30 minutos</dd></div><div class=\"inline\"><dt><span title=\"Todo el grupo\">Todo el grupo</span></dt><dd>Todo el grupo</dd></div></dl><div class=\"exe-fx exe-tabs\">\n<h2>Descripción</h2>\n<p><strong>¿Qué haremos? </strong>Antes de escribir, necesitamos inspiración. Entra en nuestro muro de Padlet y pega tres notas de colores: una con un personaje divertido, otra con un lugar asombroso y otra con un final que nadie se espere.</p>\n<p><strong>El reto:</strong> Lee las ideas de tus compañeros y pensad en grupo cómo unirlas para que vuestro cuento tenga un inicio emocionante, un nudo con problemas y un desenlace épico.</p>\n<h2 title=\"\">Herramientas digitales</h2>\n<p><a href=\"https://wordart.com/\" title=\"\">https://wordart.com/</a></p>\n<p><a href=\"https://padlet.com/dashboard?filter=combined_recents&mobile_page=Collection\" title=\"\">https://padlet.com/dashboard?filter=combined_recents&mobile_page=Collection</a></p>\n</div></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-momngh44-4onas3w1f</odePageId>
+      <odeBlockId>block-1777488661939-7qjtz5oe9</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-momngh44-4onas3w1f</odePageId>
+          <odeBlockId>block-1777488661939-7qjtz5oe9</odeBlockId>
+          <odeIdeviceId>idevice-1777488661937-k3dwlcrov</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-fx exe-accordion">
+<h2>¿Cómo funciona Padlet?</h2>
+<p><img src="{{context_path}}/content/resources/padlet_05.png" title="Padlet. Intef" width="1366" height="576" alt="" /></p>
+<p>“Padlet” por Gorka García para INTEF.                                                                                       <a href="https://intef.es/wp-content/uploads/2019/10/padlet_05.png">https://intef.es/wp-content/uploads/2019/10/padlet_05.png</a> (De uso gratuito bajo la Licencia Creative Commons Reconocimiento-Compartir Igual 4.0).</p>
+<p>Padlet es como un corcho digital gigante donde tú y tus compañeros pueden pegar notas mágicas al mismo tiempo. Para participar solo tienes que entrar al muro que creó tu profesor y pulsar el botón de más para que aparezca un cuadrito en blanco donde puedes escribir tus ideas o subir fotos y dibujos divertidos. Lo mejor es que todos pueden ver lo que publican los demás al instante y así crear un mural lleno de colores y trabajos geniales sin necesidad de usar papel ni pegamento.</p>
+<h2>¿Qué se va a evaluar?</h2>
+<p>6.2.1 Comprender el sentido global de textos.</p>
+<p>6.2.2 Identificar estructura narrativa.</p>
+</div>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777488661937-k3dwlcrov","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-fx exe-accordion\">\n<h2>¿Cómo funciona Padlet?</h2>\n<p><img src=\"{{context_path}}/content/resources/padlet_05.png\" title=\"Padlet. Intef\" width=\"1366\" height=\"576\" alt=\"\" /></p>\n<p>“Padlet” por Gorka García para INTEF.                                                                                       <a href=\"https://intef.es/wp-content/uploads/2019/10/padlet_05.png\">https://intef.es/wp-content/uploads/2019/10/padlet_05.png</a> (De uso gratuito bajo la Licencia Creative Commons Reconocimiento-Compartir Igual 4.0).</p>\n<p>Padlet es como un corcho digital gigante donde tú y tus compañeros pueden pegar notas mágicas al mismo tiempo. Para participar solo tienes que entrar al muro que creó tu profesor y pulsar el botón de más para que aparezca un cuadrito en blanco donde puedes escribir tus ideas o subir fotos y dibujos divertidos. Lo mejor es que todos pueden ver lo que publican los demás al instante y así crear un mural lleno de colores y trabajos geniales sin necesidad de usar papel ni pegamento.</p>\n<h2>¿Qué se va a evaluar?</h2>\n<p>6.2.1 Comprender el sentido global de textos.</p>\n<p>6.2.2 Identificar estructura narrativa.</p>\n</div>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-momngh45-nigi8tg7t</odePageId>
+  <odeParentPageId>page-momngh43-80tivwln9</odeParentPageId>
+  <pageName>Actividad 2: Licencia para escribir.</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 2: Licencia para escribir.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 2: Aprendemos a colaborar en digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Actividad 2: Licencia para escribir.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-momngh45-nigi8tg7t</odePageId>
+      <odeBlockId>block-1777473389097-i93wls7cv</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-momngh45-nigi8tg7t</odePageId>
+          <odeBlockId>block-1777473389097-i93wls7cv</odeBlockId>
+          <odeIdeviceId>idevice-1777473389095-287msbk2z</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="1 sesión (1 hora)">1 sesión (1 hora)</span></dt><dd></dd></div><div class="inline"><dt><span title="Todo el grupo">Todo el grupo</span></dt><dd>Todo el grupo</dd></div></dl><div class="exe-fx exe-tabs">
+<h2>Descripción</h2>
+<p><strong>¿Qué haremos?</strong> Aprenderemos a usar nuestra hoja de papel mágica en Google Docs.</p>
+<p><strong> El reto:</strong> Recordad que este documento es "la casa de todos". Practicaremos cómo escribir sin borrar lo que hacen los demás, cómo usar el chat para darnos ideas y qué hacer si borramos algo por error (¡no entres en pánico, existe el historial de versiones!). El respeto es la regla número uno aquí.</p>
+<h2>Herramientas digitales</h2>
+<p><a href="https://accounts.google.com/v3/signin/accountchooser?continue=https%3A%2F%2Fdocs.google.com%2F&dsh=S403282364%3A1777473538687831&emr=1&followup=https%3A%2F%2Fdocs.google.com%2F&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWa2Pavrv1Ftp5nOdppfA3lEsGfNYkj3vSyQV0TZ4JzwIAnw9h_1Q04T6ZRKya48u0IoHs-dKl1zrQ" title="">https://accounts.google.com/v3/signin/accountchooser?continue=https%3A%2F%2Fdocs.google.com%2F&dsh=S403282364%3A1777473538687831&emr=1&followup=https%3A%2F%2Fdocs.google.com%2F&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWa2Pavrv1Ftp5nOdppfA3lEsGfNYkj3vSyQV0TZ4JzwIAnw9h_1Q04T6ZRKya48u0IoHs-dKl1zrQ</a></p>
+<p style="text-align: justify;"><br /></p>
+</div>
+<p><br /></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777473389095-287msbk2z","textInfoDurationInput":"","textInfoDurationTextInput":"1 sesión (1 hora)","textInfoParticipantsInput":"Todo el grupo","textInfoParticipantsTextInput":"Todo el grupo","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"1 sesión (1 hora)\">1 sesión (1 hora)</span></dt><dd></dd></div><div class=\"inline\"><dt><span title=\"Todo el grupo\">Todo el grupo</span></dt><dd>Todo el grupo</dd></div></dl><div class=\"exe-fx exe-tabs\">\n<h2>Descripción</h2>\n<p><strong>¿Qué haremos?</strong> Aprenderemos a usar nuestra hoja de papel mágica en Google Docs.</p>\n<p><strong> El reto:</strong> Recordad que este documento es \"la casa de todos\". Practicaremos cómo escribir sin borrar lo que hacen los demás, cómo usar el chat para darnos ideas y qué hacer si borramos algo por error (¡no entres en pánico, existe el historial de versiones!). El respeto es la regla número uno aquí.</p>\n<h2>Herramientas digitales</h2>\n<p><a href=\"https://accounts.google.com/v3/signin/accountchooser?continue=https%3A%2F%2Fdocs.google.com%2F&dsh=S403282364%3A1777473538687831&emr=1&followup=https%3A%2F%2Fdocs.google.com%2F&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWa2Pavrv1Ftp5nOdppfA3lEsGfNYkj3vSyQV0TZ4JzwIAnw9h_1Q04T6ZRKya48u0IoHs-dKl1zrQ\" title=\"\">https://accounts.google.com/v3/signin/accountchooser?continue=https%3A%2F%2Fdocs.google.com%2F&dsh=S403282364%3A1777473538687831&emr=1&followup=https%3A%2F%2Fdocs.google.com%2F&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWa2Pavrv1Ftp5nOdppfA3lEsGfNYkj3vSyQV0TZ4JzwIAnw9h_1Q04T6ZRKya48u0IoHs-dKl1zrQ</a></p>\n<p style=\"text-align: justify;\"><br /></p>\n</div>\n<p><br /></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-momngh45-nigi8tg7t</odePageId>
+      <odeBlockId>block-1777488967590-yd372v634</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-momngh45-nigi8tg7t</odePageId>
+          <odeBlockId>block-1777488967590-yd372v634</odeBlockId>
+          <odeIdeviceId>idevice-1777488967588-d9c4lw6jx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-fx exe-accordion">
+<h2>¿Cómo funciona Google Doc?</h2>
+<p>Google Docs es como una hoja de papel infinita que vive dentro de tu computadora donde puedes escribir tus cuentos o tareas junto a tus amigos al mismo tiempo. Lo más divertido es que todos pueden ver cómo aparecen las letras mágicamente mientras los demás escriben y así pueden terminar los trabajos en equipo mucho más rápido sin tener que estar en la misma casa. Además el programa guarda todo lo que haces automáticamente para que nunca pierdas tus dibujos o historias y siempre puedas decorarlos con colores y letras bonitas desde cualquier lugar.</p>
+<h2>¿Qué se va a evaluar?</h2>
+<p>6.6.1 Uso de herramientas digitales.</p>
+<p>6.6.2 Uso responsable de la tecnología.</p>
+</div>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777488967588-d9c4lw6jx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-fx exe-accordion\">\n<h2>¿Cómo funciona Google Doc?</h2>\n<p>Google Docs es como una hoja de papel infinita que vive dentro de tu computadora donde puedes escribir tus cuentos o tareas junto a tus amigos al mismo tiempo. Lo más divertido es que todos pueden ver cómo aparecen las letras mágicamente mientras los demás escriben y así pueden terminar los trabajos en equipo mucho más rápido sin tener que estar en la misma casa. Además el programa guarda todo lo que haces automáticamente para que nunca pierdas tus dibujos o historias y siempre puedas decorarlos con colores y letras bonitas desde cualquier lugar.</p>\n<h2>¿Qué se va a evaluar?</h2>\n<p>6.6.1 Uso de herramientas digitales.</p>\n<p>6.6.2 Uso responsable de la tecnología.</p>\n</div>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-momngh46-3q658skz0</odePageId>
+  <odeParentPageId>page-momngh43-80tivwln9</odeParentPageId>
+  <pageName>Actividad 3: Érase una vez...</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 3: Érase una vez...</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 3: Érase una vez...</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Actividad 3: Érase una vez...</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-momngh46-3q658skz0</odePageId>
+      <odeBlockId>block-1777489718463-8a046fjfu</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-momngh46-3q658skz0</odePageId>
+          <odeBlockId>block-1777489718463-8a046fjfu</odeBlockId>
+          <odeIdeviceId>idevice-1777489718462-howuqenjj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>1 hora (1 sesión)</dd></div><div class="inline"><dt><span title="Grupos de 4">Grupos de 4</span></dt><dd>Todo el grupo</dd></div></dl><div class="exe-fx exe-tabs">
+<h2>Descripción</h2>
+<p><strong>¿Qué haremos?</strong> Por fin, ¡manos a la obra! En vuestro grupo, tenéis que escribir el primer párrafo de vuestro cuento.</p>
+<p><strong>El reto: </strong>Debéis presentar quién es vuestro héroe o heroína y en qué lugar fantástico comienza su aventura. Aseguraos de que todo se entienda bien y de que la historia empiece de forma que el lector no pueda dejar de leer.</p>
+<h2>Herramientas digitales</h2>
+<p>Os adjunto algunas herramientas digitales que os van a ayudar a crear historias. Además, algún tutorial para que entendáis el funcionamiento de Google Doc.</p>
+<p>Tutorial: <a href="https://www.youtube.com/watch?v=xD__SUfXEv0&amp;list=PLomN84AdULIB0dE8eOCkeCfGsYj_EDksO" title="► Cómo usar Google Drive. 1 Introducción. Qué es y para qué sirve. Tutorial en español. Abrir cuenta">https://www.youtube.com/watch?v=xD__SUfXEv0&amp;list=PLomN84AdULIB0dE8eOCkeCfGsYj_EDksO</a></p>
+<p>Herramientas: </p>
+<p><a href="https://rpg.nathanhare.net/storygen/" title="Story Dice">https://rpg.nathanhare.net/storygen/</a></p>
+<p><a href="https://storybird.com/" title="Story Bird">https://storybird.com/</a></p>
+</div>
+<p><br /></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777489718462-howuqenjj","textInfoDurationInput":"1 hora (1 sesión)","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Todo el grupo","textInfoParticipantsTextInput":"Grupos de 4","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>1 hora (1 sesión)</dd></div><div class=\"inline\"><dt><span title=\"Grupos de 4\">Grupos de 4</span></dt><dd>Todo el grupo</dd></div></dl><div class=\"exe-fx exe-tabs\">\n<h2>Descripción</h2>\n<p><strong>¿Qué haremos?</strong> Por fin, ¡manos a la obra! En vuestro grupo, tenéis que escribir el primer párrafo de vuestro cuento.</p>\n<p><strong>El reto: </strong>Debéis presentar quién es vuestro héroe o heroína y en qué lugar fantástico comienza su aventura. Aseguraos de que todo se entienda bien y de que la historia empiece de forma que el lector no pueda dejar de leer.</p>\n<h2>Herramientas digitales</h2>\n<p>Os adjunto algunas herramientas digitales que os van a ayudar a crear historias. Además, algún tutorial para que entendáis el funcionamiento de Google Doc.</p>\n<p>Tutorial: <a href=\"https://www.youtube.com/watch?v=xD__SUfXEv0&amp;list=PLomN84AdULIB0dE8eOCkeCfGsYj_EDksO\" title=\"► Cómo usar Google Drive. 1 Introducción. Qué es y para qué sirve. Tutorial en español. Abrir cuenta\">https://www.youtube.com/watch?v=xD__SUfXEv0&amp;list=PLomN84AdULIB0dE8eOCkeCfGsYj_EDksO</a></p>\n<p>Herramientas: </p>\n<p><a href=\"https://rpg.nathanhare.net/storygen/\" title=\"Story Dice\">https://rpg.nathanhare.net/storygen/</a></p>\n<p><a href=\"https://storybird.com/\" title=\"Story Bird\">https://storybird.com/</a></p>\n</div>\n<p><br /></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-momngh46-3q658skz0</odePageId>
+      <odeBlockId>block-1777490665487-b6hu8f97u</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-momngh46-3q658skz0</odePageId>
+          <odeBlockId>block-1777490665487-b6hu8f97u</odeBlockId>
+          <odeIdeviceId>idevice-1777490665485-2ez4jqno9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-fx exe-accordion">
+<p></p>
+<h2>¿Qué se va a evaluar?</h2>
+<p>6.3.1 Producción de textos coherentes.<br />6.4.1 Creación de textos literarios.</p>
+</div>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777490665485-2ez4jqno9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-fx exe-accordion\">\n<p></p>\n<h2>¿Qué se va a evaluar?</h2>\n<p>6.3.1 Producción de textos coherentes.<br />6.4.1 Creación de textos literarios.</p>\n</div>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-momngh47-w2ocvwlbt</odePageId>
+  <odeParentPageId>page-momngh43-80tivwln9</odeParentPageId>
+  <pageName>Actividad 4: Carrera de relevos.</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 4: Carrera de relevos.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 4: Carrera de relevos.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Actividad 4: Carrera de relevos.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-momngh47-w2ocvwlbt</odePageId>
+      <odeBlockId>block-1777490812032-gyynws056</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-momngh47-w2ocvwlbt</odePageId>
+          <odeBlockId>block-1777490812032-gyynws056</odeBlockId>
+          <odeIdeviceId>idevice-1777490812030-aar1vze6i</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="2/3 sesiones">2/3 sesiones</span></dt><dd></dd></div><div class="inline"><dt><span title="Individual (por turnos)">Individual (por turnos)</span></dt><dd>Todo el grupo</dd></div></dl><div class="exe-fx exe-tabs">
+<h2>Descripción</h2>
+<p>Esta es la fase más larga (2 a 3 sesiones). Para evitar el caos, los alumnos escribirán por turnos. Mientras un alumno toma el control del teclado para escribir el "nudo" (el conflicto de la historia), los demás miembros del grupo actúan como "directores creativos", sugiriendo ideas en voz alta pero sin tocar el documento. Después, rotarán para que otro compañero escriba el desenlace. Esta interacción asegura que todos participen y que la historia crezca con las ideas de todo el equipo de forma ordenada.</p>
+<h2>Herramientas digitales</h2>
+<p>Continuamos utilizando Google Doc. para la creación de las historias.</p>
+</div>
+<p><br /></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777490812030-aar1vze6i","textInfoDurationInput":"","textInfoDurationTextInput":"2/3 sesiones","textInfoParticipantsInput":"Todo el grupo","textInfoParticipantsTextInput":"Individual (por turnos)","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"2/3 sesiones\">2/3 sesiones</span></dt><dd></dd></div><div class=\"inline\"><dt><span title=\"Individual (por turnos)\">Individual (por turnos)</span></dt><dd>Todo el grupo</dd></div></dl><div class=\"exe-fx exe-tabs\">\n<h2>Descripción</h2>\n<p>Esta es la fase más larga (2 a 3 sesiones). Para evitar el caos, los alumnos escribirán por turnos. Mientras un alumno toma el control del teclado para escribir el \"nudo\" (el conflicto de la historia), los demás miembros del grupo actúan como \"directores creativos\", sugiriendo ideas en voz alta pero sin tocar el documento. Después, rotarán para que otro compañero escriba el desenlace. Esta interacción asegura que todos participen y que la historia crezca con las ideas de todo el equipo de forma ordenada.</p>\n<h2>Herramientas digitales</h2>\n<p>Continuamos utilizando Google Doc. para la creación de las historias.</p>\n</div>\n<p><br /></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-momngh47-w2ocvwlbt</odePageId>
+      <odeBlockId>block-1777491006793-gao19uyh1</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-momngh47-w2ocvwlbt</odePageId>
+          <odeBlockId>block-1777491006793-gao19uyh1</odeBlockId>
+          <odeIdeviceId>idevice-1777491006792-bds0nrc2a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-fx exe-accordion">
+<p></p>
+<h2>¿Qué se va a evaluar?</h2>
+<p>6.3.1 Producción escrita.</p>
+<p>6.5.1 Interacción.</p>
+<p>6.5.2 Trabajo colaborativo.</p>
+</div>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777491006792-bds0nrc2a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-fx exe-accordion\">\n<p></p>\n<h2>¿Qué se va a evaluar?</h2>\n<p>6.3.1 Producción escrita.</p>\n<p>6.5.1 Interacción.</p>\n<p>6.5.2 Trabajo colaborativo.</p>\n</div>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-momngh47-stv52w0hq</odePageId>
+  <odeParentPageId>page-momngh43-80tivwln9</odeParentPageId>
+  <pageName>Actividad 5: Los Detectives de errores.</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 5: Los Detectives de errores.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 5: Los Detectives de errores.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Actividad 5: Los Detectives de errores.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-momngh47-stv52w0hq</odePageId>
+      <odeBlockId>block-1777491143160-ga46nmag0</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-momngh47-stv52w0hq</odePageId>
+          <odeBlockId>block-1777491143160-ga46nmag0</odeBlockId>
+          <odeIdeviceId>idevice-1777491143158-n7kknq2jr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="1 sesión (1 hora)">1 sesión (1 hora)</span></dt><dd></dd></div><div class="inline"><dt><span title="Parejas">Parejas</span></dt><dd>Todo el grupo</dd></div></dl><div class="exe-fx exe-tabs">
+<h2>Descripción</h2>
+<p>En esta sesión, los grupos os intercambiáis los documentos. Cada pareja os convertís en un "editor de libros". Vuestro trabajo no es borrar el texto de los compañeros, sino leerlo con lupa para encontrar faltas de ortografía o frases que no se entienden. Utilizaréis la herramienta de "Añadir comentario" (el icono del bocadillo con un +) para dejar notas como: "Aquí falta una mayúscula" o "Esta palabra se escribe con B". Así, los autores originales podrán ver las sugerencias y corregirlas ellos mismos.</p>
+<h2>¿Qué podemos tener en cuenta?</h2>
+<p><img src="{{context_path}}/content/resources/normas_ortograficas_de_la_b_y_la_v_6638_1200.jpg" title="Normas ortográficas de la B y la V" width="1200" height="800" alt="" /><br /></p>
+<p>Rut Blasco.                                                                                  <a href="https://www.unprofesor.com/lengua-espanola/normas-ortograficas-de-la-b-y-la-v-6638.html">https://www.unprofesor.com/lengua-espanola/normas-ortograficas-de-la-b-y-la-v-6638.html</a> (De uso gratuito bajo la Licencia Creative Commons Reconocimiento-Compartir Igual 4.0).</p>
+<p><img src="{{context_path}}/content/resources/Ortografía-Básica-para-niños-1.jpg" title="Uso de las mayúsculas" width="1366" height="961" alt="" /></p>
+<p>Orientación Andújar.                                                                                                                 <a href="https://www.orientacionandujar.es/2019/07/08/laminas-con-reglas-de-ortografia-sencillas-para-los-mas-peques/">https://www.orientacionandujar.es/2019/07/08/laminas-con-reglas-de-ortografia-sencillas-para-los-mas-peques/</a> (De uso gratuito bajo la Licencia Creative Commons Reconocimiento-Compartir Igual 4.0).       </p>
+<p><img src="{{context_path}}/content/resources/db4865722a9a2d282186bf1fde2f06d3.jpg" title="Reglas De Ortografía Primaria" width="1366" height="1931" alt="" /></p>
+</div>
+<p>Edúcate Docente.                                                                                                                            <a href="https://es.pinterest.com/pin/6262886975217424/">https://es.pinterest.com/pin/6262886975217424/</a> (De uso gratuito bajo la Licencia Copyright).</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777491143158-n7kknq2jr","textInfoDurationInput":"","textInfoDurationTextInput":"1 sesión (1 hora)","textInfoParticipantsInput":"Todo el grupo","textInfoParticipantsTextInput":"Parejas","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"1 sesión (1 hora)\">1 sesión (1 hora)</span></dt><dd></dd></div><div class=\"inline\"><dt><span title=\"Parejas\">Parejas</span></dt><dd>Todo el grupo</dd></div></dl><div class=\"exe-fx exe-tabs\">\n<h2>Descripción</h2>\n<p>En esta sesión, los grupos os intercambiáis los documentos. Cada pareja os convertís en un \"editor de libros\". Vuestro trabajo no es borrar el texto de los compañeros, sino leerlo con lupa para encontrar faltas de ortografía o frases que no se entienden. Utilizaréis la herramienta de \"Añadir comentario\" (el icono del bocadillo con un +) para dejar notas como: \"Aquí falta una mayúscula\" o \"Esta palabra se escribe con B\". Así, los autores originales podrán ver las sugerencias y corregirlas ellos mismos.</p>\n<h2>¿Qué podemos tener en cuenta?</h2>\n<p><img src=\"{{context_path}}/content/resources/normas_ortograficas_de_la_b_y_la_v_6638_1200.jpg\" title=\"Normas ortográficas de la B y la V\" width=\"1200\" height=\"800\" alt=\"\" /><br /></p>\n<p>Rut Blasco.                                                                                  <a href=\"https://www.unprofesor.com/lengua-espanola/normas-ortograficas-de-la-b-y-la-v-6638.html\">https://www.unprofesor.com/lengua-espanola/normas-ortograficas-de-la-b-y-la-v-6638.html</a> (De uso gratuito bajo la Licencia Creative Commons Reconocimiento-Compartir Igual 4.0).</p>\n<p><img src=\"{{context_path}}/content/resources/Ortografía-Básica-para-niños-1.jpg\" title=\"Uso de las mayúsculas\" width=\"1366\" height=\"961\" alt=\"\" /></p>\n<p>Orientación Andújar.                                                                                                                 <a href=\"https://www.orientacionandujar.es/2019/07/08/laminas-con-reglas-de-ortografia-sencillas-para-los-mas-peques/\">https://www.orientacionandujar.es/2019/07/08/laminas-con-reglas-de-ortografia-sencillas-para-los-mas-peques/</a> (De uso gratuito bajo la Licencia Creative Commons Reconocimiento-Compartir Igual 4.0).       </p>\n<p><img src=\"{{context_path}}/content/resources/db4865722a9a2d282186bf1fde2f06d3.jpg\" title=\"Reglas De Ortografía Primaria\" width=\"1366\" height=\"1931\" alt=\"\" /></p>\n</div>\n<p>Edúcate Docente.                                                                                                                            <a href=\"https://es.pinterest.com/pin/6262886975217424/\">https://es.pinterest.com/pin/6262886975217424/</a> (De uso gratuito bajo la Licencia Copyright).</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-momngh47-stv52w0hq</odePageId>
+      <odeBlockId>block-1777569626037-a6b1pki3q</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-momngh47-stv52w0hq</odePageId>
+          <odeBlockId>block-1777569626037-a6b1pki3q</odeBlockId>
+          <odeIdeviceId>idevice-1777569626034-ld7j6xetv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-fx exe-accordion">
+<h2>¿Cómo hacer comentarios en Google Doc?</h2>
+<p>En Google Docs puedes añadir comentarios seleccionando el texto y haciendo clic en el icono de comentario o con clic derecho en “Comentar” o usando el atajo Ctrl + Alt + M en Windows o ⌘ + Option + M en Mac luego escribes el comentario y lo publicas también puedes mencionar a alguien usando @ para notificarlo. </p>
+<p>Adjunto vídeo explicativo: <a href="https://www.youtube.com/watch?v=4u2d3Ij7yhQ&t=5s" title="🚀 Hacer COMENTARIOS en GOOGLE DOCS | Simple y Fácil | Te muestro como">https://www.youtube.com/watch?v=4u2d3Ij7yhQ&t=5s</a></p>
+<h2>¿Qué se va a evaluar?</h2>
+<p>6.3.2 Aplicación de normas ortográficas. </p>
+</div>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777569626034-ld7j6xetv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-fx exe-accordion\">\n<h2>¿Cómo hacer comentarios en Google Doc?</h2>\n<p>En Google Docs puedes añadir comentarios seleccionando el texto y haciendo clic en el icono de comentario o con clic derecho en “Comentar” o usando el atajo Ctrl + Alt + M en Windows o ⌘ + Option + M en Mac luego escribes el comentario y lo publicas también puedes mencionar a alguien usando @ para notificarlo. </p>\n<p>Adjunto vídeo explicativo: <a href=\"https://www.youtube.com/watch?v=4u2d3Ij7yhQ&t=5s\" title=\"🚀 Hacer COMENTARIOS en GOOGLE DOCS | Simple y Fácil | Te muestro como\">https://www.youtube.com/watch?v=4u2d3Ij7yhQ&t=5s</a></p>\n<h2>¿Qué se va a evaluar?</h2>\n<p>6.3.2 Aplicación de normas ortográficas. </p>\n</div>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-momngh48-x28j7vl6a</odePageId>
+  <odeParentPageId>page-momngh43-80tivwln9</odeParentPageId>
+  <pageName>Actividad 6: Voces de la historia.</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 6: Voces de la historia.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 6: Voces de la historia.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Actividad 6: Voces de la historia.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-momngh48-x28j7vl6a</odePageId>
+      <odeBlockId>block-1777570412482-5cuvrngb4</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-momngh48-x28j7vl6a</odePageId>
+          <odeBlockId>block-1777570412482-5cuvrngb4</odeBlockId>
+          <odeIdeviceId>idevice-1777570412481-9mtdpfpb8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="1 sesión (1 hora)">1 sesión (1 hora)</span></dt><dd></dd></div><div class="inline"><dt><span title="Grupos de 4">Grupos de 4</span></dt><dd>Todo el grupo</dd></div></dl><div class="exe-fx exe-tabs">
+<h2>Descripción</h2>
+<p>Es el momento de dar vida a vuestra historia delante de los demás os convertiréis en narradores y personajes usando vuestra voz para transmitir emociones cuidando la entonación el ritmo y la claridad además grabaréis la presentación con Vocaroo para escucharos después descubrir vuestros puntos fuertes y seguir mejorando vuestra forma de comunicar mientras disfrutáis del trabajo en equipo.<br /> <img src="{{context_path}}/content/resources/trabajo_en_equipo.jpg" title="Las claves del trabajo en equipo" width="1207" height="724" alt="" /></p>
+<p>Yolanda Iglesias. Designthinking                                                                                             <a href="https://designthinking.gal/traballo_en_equipo/">https://designthinking.gal/traballo_en_equipo/</a>  (De uso gratuito bajo la Licencia Copyright).</p>
+<h2>Herramientas digitales</h2>
+<p>Para esta actividad podemos utilizar la herramienta digital Vocaroo:</p>
+<p><iframe width="100%" height="400px" style="border: 0px none #000000; box-shadow: 0 2px 6px rgba(0,0,0,0.1); border-radius: 10px;" name="myiFrame" src="https://vocaroo.com/" scrolling="yes"></iframe></p>
+<p><br /></p>
+</div>
+<p><br /></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777570412481-9mtdpfpb8","textInfoDurationInput":"","textInfoDurationTextInput":"1 sesión (1 hora)","textInfoParticipantsInput":"Todo el grupo","textInfoParticipantsTextInput":"Grupos de 4","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"1 sesión (1 hora)\">1 sesión (1 hora)</span></dt><dd></dd></div><div class=\"inline\"><dt><span title=\"Grupos de 4\">Grupos de 4</span></dt><dd>Todo el grupo</dd></div></dl><div class=\"exe-fx exe-tabs\">\n<h2>Descripción</h2>\n<p>Es el momento de dar vida a vuestra historia delante de los demás os convertiréis en narradores y personajes usando vuestra voz para transmitir emociones cuidando la entonación el ritmo y la claridad además grabaréis la presentación con Vocaroo para escucharos después descubrir vuestros puntos fuertes y seguir mejorando vuestra forma de comunicar mientras disfrutáis del trabajo en equipo.<br /> <img src=\"{{context_path}}/content/resources/trabajo_en_equipo.jpg\" title=\"Las claves del trabajo en equipo\" width=\"1207\" height=\"724\" alt=\"\" /></p>\n<p>Yolanda Iglesias. Designthinking                                                                                             <a href=\"https://designthinking.gal/traballo_en_equipo/\">https://designthinking.gal/traballo_en_equipo/</a>  (De uso gratuito bajo la Licencia Copyright).</p>\n<h2>Herramientas digitales</h2>\n<p>Para esta actividad podemos utilizar la herramienta digital Vocaroo:</p>\n<p><iframe width=\"100%\" height=\"400px\" style=\"border: 0px none #000000; box-shadow: 0 2px 6px rgba(0,0,0,0.1); border-radius: 10px;\" name=\"myiFrame\" src=\"https://vocaroo.com/\" scrolling=\"yes\"></iframe></p>\n<p><br /></p>\n</div>\n<p><br /></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-momngh48-x28j7vl6a</odePageId>
+      <odeBlockId>block-1777570761024-xbiefej2f</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-momngh48-x28j7vl6a</odePageId>
+          <odeBlockId>block-1777570761024-xbiefej2f</odeBlockId>
+          <odeIdeviceId>idevice-1777570761022-cm7daw0qd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-fx exe-accordion">
+<h2>¿Qué es Vocaroo?</h2>
+<p>Vocaroo es una herramienta muy sencilla que os permite grabar vuestra voz de forma rápida y divertida directamente desde el navegador sin necesidad de instalar nada solo tenéis que entrar en la página pulsar el botón de grabar contar vuestra historia con buena entonación y claridad y cuando terminéis podéis escucharla compartirla o descargarla así podréis oír cómo lo habéis hecho reconocer vuestros logros y seguir mejorando vuestra expresión oral mientras disfrutáis creando juntos.</p>
+<h2>¿Qué se va a evaluar?</h2>
+<p>6.5.1 Expresión oral adecuada.</p>
+</div>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777570761022-cm7daw0qd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-fx exe-accordion\">\n<h2>¿Qué es Vocaroo?</h2>\n<p>Vocaroo es una herramienta muy sencilla que os permite grabar vuestra voz de forma rápida y divertida directamente desde el navegador sin necesidad de instalar nada solo tenéis que entrar en la página pulsar el botón de grabar contar vuestra historia con buena entonación y claridad y cuando terminéis podéis escucharla compartirla o descargarla así podréis oír cómo lo habéis hecho reconocer vuestros logros y seguir mejorando vuestra expresión oral mientras disfrutáis creando juntos.</p>\n<h2>¿Qué se va a evaluar?</h2>\n<p>6.5.1 Expresión oral adecuada.</p>\n</div>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777624065411-l6ub1fnjx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777624065411-l6ub1fnjx</odePageId>
+      <odeBlockId>block-1777624146320-a7orwtrp8</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777624065411-l6ub1fnjx</odePageId>
+          <odeBlockId>block-1777624146320-a7orwtrp8</odeBlockId>
+          <odeIdeviceId>idevice-1777624146316-6rlzl5bgf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta Situación de Aprendizaje, el alumnado desarrolla una historia colectiva mediante un documento compartido. La evaluación se plantea como un proceso continuo, formativo y basado en la triangulación de datos, combinando distintos instrumentos digitales que permiten recoger evidencias del aprendizaje desde diferentes perspectivas.</p>
+<p>Se utilizarán tres instrumentos principales:</p>
+<p>- Rúbrica de producción escrita colaborativa. <br />- Diana de autoevaluación.<br />- Cuestionario digital de coevaluación y reflexión.</p>
+<p><br /></p>
+<p>Rúbrica: </p>
+<p><img src="{{context_path}}/content/resources/Rúbrica de Texto Expositivo Ilustrativa Naranja y Azul.png" width="1366" height="966" alt="" /></p>
+<p>Imagen de uso gratito. <a href="https://www.canva.com/design/DAHHavpafXU/_W5nm-97rexXYrMMVFsnxw/edit">https://www.canva.com/design/DAHHavpafXU/_W5nm-97rexXYrMMVFsnxw/edit</a> </p>
+<p>Diana de autoevaluación: </p>
+<p><img src="{{context_path}}/content/resources/Hoja de trabajo diana autoevaluación minimalista blanco y negro .png" width="1366" height="966" alt="" /></p>
+<p>Imagen de uso gratuito. <a href="https://canva.link/rjhy7lhss91r12o">https://canva.link/rjhy7lhss91r12o</a> </p>
+<p>Instrumento digital de coevaluación: <a href="https://docs.google.com/forms/d/e/1FAIpQLSdwv-g5S9NqQqiHoWoj-sb8cz3vTfd_x0Ajf3AONcN3zNzwXw/viewform?usp=publish-editor" title="">https://docs.google.com/forms/d/e/1FAIpQLSdwv-g5S9NqQqiHoWoj-sb8cz3vTfd_x0Ajf3AONcN3zNzwXw/viewform?usp=publish-editor</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777624146316-6rlzl5bgf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta Situación de Aprendizaje, el alumnado desarrolla una historia colectiva mediante un documento compartido. La evaluación se plantea como un proceso continuo, formativo y basado en la triangulación de datos, combinando distintos instrumentos digitales que permiten recoger evidencias del aprendizaje desde diferentes perspectivas.</p>\n<p>Se utilizarán tres instrumentos principales:</p>\n<p>- Rúbrica de producción escrita colaborativa. <br />- Diana de autoevaluación.<br />- Cuestionario digital de coevaluación y reflexión.</p>\n<p><br /></p>\n<p>Rúbrica: </p>\n<p><img src=\"{{context_path}}/content/resources/Rúbrica de Texto Expositivo Ilustrativa Naranja y Azul.png\" width=\"1366\" height=\"966\" alt=\"\" /></p>\n<p>Imagen de uso gratito. <a href=\"https://www.canva.com/design/DAHHavpafXU/_W5nm-97rexXYrMMVFsnxw/edit\">https://www.canva.com/design/DAHHavpafXU/_W5nm-97rexXYrMMVFsnxw/edit</a> </p>\n<p>Diana de autoevaluación: </p>\n<p><img src=\"{{context_path}}/content/resources/Hoja de trabajo diana autoevaluación minimalista blanco y negro .png\" width=\"1366\" height=\"966\" alt=\"\" /></p>\n<p>Imagen de uso gratuito. <a href=\"https://canva.link/rjhy7lhss91r12o\">https://canva.link/rjhy7lhss91r12o</a> </p>\n<p>Instrumento digital de coevaluación: <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdwv-g5S9NqQqiHoWoj-sb8cz3vTfd_x0Ajf3AONcN3zNzwXw/viewform?usp=publish-editor\" title=\"\">https://docs.google.com/forms/d/e/1FAIpQLSdwv-g5S9NqQqiHoWoj-sb8cz3vTfd_x0Ajf3AONcN3zNzwXw/viewform?usp=publish-editor</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777624507534-z9z7y0oad</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Conclusión</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Conclusión</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777624507534-z9z7y0oad</odePageId>
+      <odeBlockId>block-1777624590902-5ycuk1i9u</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777624507534-z9z7y0oad</odePageId>
+          <odeBlockId>block-1777624590902-5ycuk1i9u</odeBlockId>
+          <odeIdeviceId>idevice-1777624590898-m3wkfq93u</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para cerrar este proyecto, es importante reconocer algo más allá del resultado final: habéis demostrado que crear en equipo no solo es posible, sino que puede dar lugar a ideas más ricas, originales y sorprendentes de lo que cada uno habría logrado por separado. Cada aportación ha sumado, cada palabra ha construido, y cada voz ha encontrado su lugar en una historia común.</p>
+<p>Este trabajo no termina aquí. Lo que habéis aprendido (escuchar, respetar, construir sobre las ideas de otros y atreveros a compartir las vuestras) es algo que podéis llevar a cualquier reto futuro. Seguid escribiendo, creando y colaborando con esa misma actitud, porque cuando las ideas se unen, el resultado siempre crece.</p>
+<p>Enhorabuena por el camino recorrido y, sobre todo, por haber demostrado que juntos podéis contar grandes historias.</p>
+<p><img src="{{context_path}}/content/resources/HISTORIAS JUNTAS.png" title="HISTORIAS JUNTAS" width="1366" height="911" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777624590898-m3wkfq93u","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para cerrar este proyecto, es importante reconocer algo más allá del resultado final: habéis demostrado que crear en equipo no solo es posible, sino que puede dar lugar a ideas más ricas, originales y sorprendentes de lo que cada uno habría logrado por separado. Cada aportación ha sumado, cada palabra ha construido, y cada voz ha encontrado su lugar en una historia común.</p>\n<p>Este trabajo no termina aquí. Lo que habéis aprendido (escuchar, respetar, construir sobre las ideas de otros y atreveros a compartir las vuestras) es algo que podéis llevar a cualquier reto futuro. Seguid escribiendo, creando y colaborando con esa misma actitud, porque cuando las ideas se unen, el resultado siempre crece.</p>\n<p>Enhorabuena por el camino recorrido y, sobre todo, por haber demostrado que juntos podéis contar grandes historias.</p>\n<p><img src=\"{{context_path}}/content/resources/HISTORIAS JUNTAS.png\" title=\"HISTORIAS JUNTAS\" width=\"1366\" height=\"911\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777625204490-5w88p2nc9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777625204490-5w88p2nc9</odePageId>
+      <odeBlockId>block-1777625218194-8vfcytbi9</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777625204490-5w88p2nc9</odePageId>
+          <odeBlockId>block-1777625218194-8vfcytbi9</odeBlockId>
+          <odeIdeviceId>idevice-1777625218192-n34hm5x1k</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 100.148%; height: 588px; border-style: outset;">
+<tbody>
+<tr style="height: 33px;">
+<td style="width: 50.0743%; height: 33px;">Título</td>
+<td style="width: 49.9257%; height: 33px;">Tejiendo historias</td>
+</tr>
+<tr style="height: 489px;">
+<td style="width: 50.0743%; height: 489px;">Descripción</td>
+<td style="width: 49.9257%; height: 489px;">Situación de aprendizaje basada en la creación de historias colectivas mediante el uso de un documento compartido en línea dirigida al alumnado de 6º de Educación Primaria con el objetivo de fomentar la expresión escrita la creatividad el trabajo cooperativo y la competencia digital a través de una propuesta en la que los estudiantes organizados en pequeños grupos planifican redactan y revisan de manera conjunta un texto narrativo utilizando herramientas digitales de forma segura y responsable esta actividad permite desarrollar la competencia lingüística digital y social al tiempo que promueve el respeto por las ideas de los demás la toma de decisiones compartida y el uso adecuado de entornos virtuales de aprendizaje culminando en la elaboración de una historia final que será presentada o difundida dentro de la comunidad educativa.</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 50.0743%; height: 33px;">Autoría</td>
+<td style="width: 49.9257%; height: 33px;">Saray Arrebola González</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 50.0743%; height: 33px;">Licencia</td>
+<td style="width: 49.9257%; height: 33px;">Creative Commons: Reconocimiento - compartir igual 4.0</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777625218192-n34hm5x1k","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 100.148%; height: 588px; border-style: outset;\">\n<tbody>\n<tr style=\"height: 33px;\">\n<td style=\"width: 50.0743%; height: 33px;\">Título</td>\n<td style=\"width: 49.9257%; height: 33px;\">Tejiendo historias</td>\n</tr>\n<tr style=\"height: 489px;\">\n<td style=\"width: 50.0743%; height: 489px;\">Descripción</td>\n<td style=\"width: 49.9257%; height: 489px;\">Situación de aprendizaje basada en la creación de historias colectivas mediante el uso de un documento compartido en línea dirigida al alumnado de 6º de Educación Primaria con el objetivo de fomentar la expresión escrita la creatividad el trabajo cooperativo y la competencia digital a través de una propuesta en la que los estudiantes organizados en pequeños grupos planifican redactan y revisan de manera conjunta un texto narrativo utilizando herramientas digitales de forma segura y responsable esta actividad permite desarrollar la competencia lingüística digital y social al tiempo que promueve el respeto por las ideas de los demás la toma de decisiones compartida y el uso adecuado de entornos virtuales de aprendizaje culminando en la elaboración de una historia final que será presentada o difundida dentro de la comunidad educativa.</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 50.0743%; height: 33px;\">Autoría</td>\n<td style=\"width: 49.9257%; height: 33px;\">Saray Arrebola González</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 50.0743%; height: 33px;\">Licencia</td>\n<td style=\"width: 49.9257%; height: 33px;\">Creative Commons: Reconocimiento - compartir igual 4.0</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
